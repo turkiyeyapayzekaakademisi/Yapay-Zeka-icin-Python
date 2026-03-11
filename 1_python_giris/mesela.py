@@ -1,0 +1,1 @@
+print("Türkiye Yapay Zeka Akademisini çook seviyorum. ")
